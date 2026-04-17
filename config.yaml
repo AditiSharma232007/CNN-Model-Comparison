@@ -1,0 +1,23 @@
+experiment_name: cnn-model-comparison
+results_dir: artifacts
+seed: 42
+train_split: 0.7
+val_split: 0.15
+test_split: 0.15
+image_size: 224
+batch_size: 32
+epochs: 10
+learning_rate: 0.001
+num_workers: 0
+max_classes: 12
+max_samples_per_class: 800
+models:
+  - lenet
+  - zfnet
+  - alexnet
+  - googlenet
+  - vgg16
+  - resnet50
+  - inception_v3
+  - mobilenet_v3_large
+  - squeezenet1_1

@@ -1,0 +1,39 @@
+{
+  "Almonds 1": {
+    "precision": 1.0,
+    "recall": 0.96,
+    "f1-score": 0.9795918367346939,
+    "support": 50.0
+  },
+  "Apple 10": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50.0
+  },
+  "Apple 11": {
+    "precision": 0.96,
+    "recall": 0.96,
+    "f1-score": 0.96,
+    "support": 50.0
+  },
+  "Apple 12": {
+    "precision": 0.9615384615384616,
+    "recall": 1.0,
+    "f1-score": 0.9803921568627451,
+    "support": 50.0
+  },
+  "accuracy": 0.98,
+  "macro avg": {
+    "precision": 0.9803846153846154,
+    "recall": 0.98,
+    "f1-score": 0.9799959983993598,
+    "support": 200.0
+  },
+  "weighted avg": {
+    "precision": 0.9803846153846155,
+    "recall": 0.98,
+    "f1-score": 0.9799959983993597,
+    "support": 200.0
+  }
+}
